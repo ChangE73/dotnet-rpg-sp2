@@ -1,0 +1,14 @@
+<monsters>
+  <monster>
+    <name>Orc</name>
+    <hp>120</hp>
+  </monster>
+  <monster>
+    <name>Goblin</name>
+    <hp>80</hp>
+  </monster>
+  <monster>
+    <name>Dragon</name>
+    <hp>300</hp>
+  </monster>
+</monsters>

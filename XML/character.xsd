@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="GetCharacterDto">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Id" type="xs:int"/>
+        <xs:element name="Name" type="xs:string"/>
+        <xs:element name="HitPoints" type="xs:int"/>
+        <xs:element name="Strength" type="xs:int"/>
+        <xs:element name="Defense" type="xs:int"/>
+        <xs:element name="Intelligence" type="xs:int"/>
+        <xs:element name="Class" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
